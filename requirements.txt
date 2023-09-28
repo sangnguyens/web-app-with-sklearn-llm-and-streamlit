@@ -1,0 +1,7 @@
+scikit-llm
+streamlit
+python-dotenv
+pandas
+black
+pylint
+pytest
