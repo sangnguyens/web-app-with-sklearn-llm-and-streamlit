@@ -1,3 +1,5 @@
+[![Makefile CI](https://github.com/sangnguyens/web-app-with-sklearn-llm-and-streamlit/actions/workflows/main.yml/badge.svg)](https://github.com/sangnguyens/web-app-with-sklearn-llm-and-streamlit/actions/workflows/main.yml)
+
 # web-app-with-sklearn-llm-and-streamlit
 
 Build and deploy an sentiment classifiers with sklearn and ChatGPT from OpenAI large language models.
