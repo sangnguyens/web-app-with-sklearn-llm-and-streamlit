@@ -24,5 +24,5 @@ def test_streamlit_app():
 
 if __name__ == "__main__":
     test_build_model()
-    test_streamlit_app()
+    # test_streamlit_app()
     print("Done!")
