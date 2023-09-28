@@ -1,0 +1,32 @@
+name: Makefile CI
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: install dependencies
+      run: 
+        make install
+
+    - name: format
+      run: 
+        make format
+
+    - name: test
+      run: 
+        make tes
+
+    - name: lint
+      run: 
+        make lint
+    - name: deploy
+      run:
+        make deploy
