@@ -1,6 +1,10 @@
 # web-app-with-sklearn-llm-and-streamlit
 
-Build and deploy an sentiment classifiers with sklearn and openai large language models.
+Build and deploy an sentiment classifiers with sklearn and ChatGPT from OpenAI large language models.
+
+Scikit-Learn is a well known powerful machine learning library built on top of python. 
+
+ChatGPT is a well known trade name created by OpenAI and been widely used by community. Using OpenAI API Key will help us leverage the power of ChatGPT to build AI product on top of that. This method is more robust than tradition at reasonable price. All you need to do is provide an OPENAI_API_KEY to finish this app.
 
 From commandline, take following action to run app:
 
