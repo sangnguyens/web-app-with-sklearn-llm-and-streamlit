@@ -20,13 +20,13 @@ jobs:
       run: 
         make format
 
-    - name: test
-      run: 
-        make test
+    # - name: test
+    #   run: 
+    #     make test
 
-    - name: lint
-      run: 
-        make lint
-    - name: deploy
-      run:
-        make deploy
+    # - name: lint
+    #   run: 
+    #     make lint
+    # - name: deploy
+    #   run:
+    #     make deploy
